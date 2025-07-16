@@ -15,7 +15,7 @@ main {
   width: 250px;
   height: 250px;  
   border-radius: 50%;
-  border-color: aliceblue;
+  border-color: #f0f8ff;
   border: 2px solid;
 }
 
@@ -24,9 +24,9 @@ main {
 }
 
 .btn-agregar {
-  width: 150px;
+  width: 130px;
   background-color: #2B3037;
-  color: white;
+  color: #ffffff;
   border: none;
   padding: 10px 20px;
   border-radius: 10px;
@@ -39,9 +39,9 @@ main {
 }
 
 .btn-iniciar {
-  width: 150px;
+  width: 130px;
   background-color: #2B3037;
-  color: white;
+  color: #ffffff;
   border: none;
   padding: 10px 20px;
   border-radius: 10px;
@@ -54,9 +54,9 @@ main {
 }
 
 .btn-detener {
-  width: 150px;
+  width: 130px;
   background-color: #2B3037;
-  color: white;
+  color: #ffffff;
   border: none;
   padding: 10px 20px;
   border-radius: 10px;
@@ -69,9 +69,9 @@ main {
 }
 
 .btn-reset {
-  width: 150px;
+  width: 130px;
   background-color: #2B3037;
-  color: white;
+  color: #ffffff;
   border: none;
   padding: 10px 20px;
   border-radius: 10px;
