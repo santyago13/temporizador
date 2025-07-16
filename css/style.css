@@ -1,5 +1,3 @@
-@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap');
-
 body {
   display: flex;
   flex-direction: column;
@@ -10,6 +8,79 @@ main {
     flex: 1;
 }
 
-.f-oswald {
-    font-family: "Oswald", sans-serif;
+.circulo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 250px;
+  height: 250px;  
+  border-radius: 50%;
+  border-color: aliceblue;
+  border: 2px solid;
 }
+
+.input-mio {
+  width: 75px;
+}
+
+.btn-agregar {
+  width: 150px;
+  background-color: #2B3037;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 10px;
+  cursor: pointer;
+  transition: 150ms ease-in-out;
+}
+
+.btn-agregar:hover {
+  color: #adff2f;
+}
+
+.btn-iniciar {
+  width: 150px;
+  background-color: #2B3037;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 10px;
+  cursor: pointer;
+  transition: 150ms ease-in-out;
+}
+
+.btn-iniciar:hover {
+  color: #42a8f6;
+}
+
+.btn-detener {
+  width: 150px;
+  background-color: #2B3037;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 10px;
+  cursor: pointer;
+  transition: 150ms ease-in-out;
+}
+
+.btn-detener:hover {
+  color: #f44646;
+}
+
+.btn-reset {
+  width: 150px;
+  background-color: #2B3037;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 10px;
+  cursor: pointer;
+  transition: 150ms ease-in-out;
+}
+
+.btn-reset:hover {
+  color: yellow;
+}
+
+
