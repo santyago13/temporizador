@@ -56,7 +56,7 @@ main {
 }
 
 .btn-iniciar {
-  width: 130px;
+  width: 100px;
   background-color: #2B3037;
   color: #ffffff;
   border: none;
@@ -71,7 +71,7 @@ main {
 }
 
 .btn-detener {
-  width: 130px;
+  width: 100px;
   background-color: #2B3037;
   color: #ffffff;
   border: none;
@@ -86,7 +86,7 @@ main {
 }
 
 .btn-reset {
-  width: 130px;
+  width: 100px;
   background-color: #2B3037;
   color: #ffffff;
   border: none;
