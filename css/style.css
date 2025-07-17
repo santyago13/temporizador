@@ -53,6 +53,8 @@ main {
 
 .btn-agregar:hover {
   color: #adff2f;
+  background-color: #262c1e;
+  border-radius: 20px;
 }
 
 .btn-iniciar {
@@ -68,6 +70,8 @@ main {
 
 .btn-iniciar:hover {
   color: #42a8f6;
+  background-color: #263846;
+  border-radius: 20px;
 }
 
 .btn-detener {
@@ -83,6 +87,8 @@ main {
 
 .btn-detener:hover {
   color: #f44646;
+  background-color: #411a1a;
+  border-radius: 20px;
 }
 
 .btn-reset {
@@ -97,7 +103,9 @@ main {
 }
 
 .btn-reset:hover {
-  color: yellow;
+  color: #ffff00;
+  background-color: #424219;
+  border-radius: 20px;
 }
 
 
