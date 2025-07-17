@@ -19,6 +19,17 @@ main {
   border: 2px solid;
 }
 
+@keyframes bordeColores {
+  0%   { border-color: red; }
+  33%  { border-color: green; }
+  66%  { border-color: blue; }
+  100% { border-color: red; }
+}
+
+.circulo.animar-borde {
+  animation: bordeColores 3s linear infinite;
+}
+
 .input-mio {
   width: 75px;
 }
